@@ -13,4 +13,20 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## 🔥 GitHub Stats
+![Your github stats](https://github-readme-stats.vercel.app/api?username=xr-song&show_icons=true&theme=radical)
+
+## 📈 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=xr-song&theme=radical)
+
+## 🏆 Trophies
+
 -->
+
+
+🌱 I'm a bioinformatician & PhD student  
+🧬 Currently working on epigenetics  
+
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=xr-song&theme=darkhub)
