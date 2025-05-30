@@ -26,7 +26,4 @@ Here are some ideas to get you started:
 
 
 👩‍💻 *I'm a bioinformatician & PhD student*  
-🧬 *Currently working on epigenetics*  
-
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=xr-song&theme=darkhub)
+🧬 *Working on epigenetics*  
